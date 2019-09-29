@@ -1,0 +1,15 @@
+name: identicon
+description: A library which generate an identicon image based on a string.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  crypto: ^2.1.3
+  image: ^2.1.4
+
+dev_dependencies:
+  test: ^1.3.0
