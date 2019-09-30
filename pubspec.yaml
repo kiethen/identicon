@@ -1,8 +1,8 @@
 name: identicon
 description: A library which generate an identicon image based on a string.
 version: 0.0.1
-author:
-homepage:
+author: phinexdaz <phinexdaz@gmail.com>
+homepage: https://github.com/phinexdaz/identicon
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
