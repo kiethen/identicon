@@ -2,6 +2,14 @@
 
 A library which generate an identicon image based on a string.
 
+## Usage
+```dart
+final bytes = Identicon().generate("HelloWorld");
+File file = new File("example.png");
+file.createSync(recursive: true);
+file.writeAsBytesSync(bytes);
+```
+
 ## Getting Started
 
 This project is a starting point for a Dart
