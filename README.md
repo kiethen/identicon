@@ -1,6 +1,10 @@
 # identicon
 
+[![pub package](https://img.shields.io/pub/v/identicon.svg)](https://pub.dev/packages/identicon) [![GitHub license](https://img.shields.io/github/license/phinexdaz/identicon)](https://github.com/phinexdaz/identicon/blob/master/LICENSE)
+
 A library which generate an identicon image based on a string.
+
+<img src="https://raw.githubusercontent.com/phinexdaz/identicon/master/preview.png" width="500" />
 
 ## Usage
 ```dart
