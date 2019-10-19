@@ -1,3 +1,7 @@
+## [0.1.1]
+
+* update doc
+
 ## [0.1.0]
 
 * release

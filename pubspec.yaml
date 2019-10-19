@@ -1,6 +1,6 @@
 name: identicon
 description: A library which generate an identicon image based on a string.
-version: 0.1.0
+version: 0.1.1
 author: phinexdaz <phinexdaz@gmail.com>
 homepage: https://github.com/phinexdaz/identicon
 
